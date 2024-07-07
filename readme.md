@@ -1,1 +1,1 @@
-https://panel.mahanabr.com/link/c01d959e2f5ced7041894f389c08ee70
+https://panel.mahanabr.com/link/57a319bd83f3dda1292b21e8095a647f
