@@ -1,1 +1,1 @@
-https://panel.mahanabr.com/link/a7f98606cbc607c85936d4006e3888d4
+https://panel.mmdleecherbot-4.monster/link/a7f98606cbc607c85936d4006e3888d4?cl=1
