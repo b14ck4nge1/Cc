@@ -1,1 +1,1 @@
-vless://9b8c2f28-661e-422a-a1b9-3ecf292be295@185.143.233.5:443?type=ws&host=kanoon.ir.am1.abrmahanair.com&path=/?ed%3D443&security=tls&fp=randomized&sni=kanoon.ir#%F0%9F%87%B3%F0%9F%87%B1%20NL-1-NBRVCC
+https://pnl.parhamm.ir/sub/MTY5NiwxNzUwNjc2MzEyQcW_mmev1otype=ws&host=kanoon.ir.am1.abrmahanair.com&path=/?ed%3D443&security=tls&fp=randomized&sni=kanoon.ir#%F0%9F%87%B3%F0%9F%87%B1%20NL-1-NBRVCC
